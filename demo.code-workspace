@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "api",
+			"name": "API"
+		},
+		{
+			"path": "client",
+			"name": "Client"
+		},
+		{
+			"path": ".devcontainer",
+			"name": "devcontainer Setup"
+		}
+	],
+	"settings": {}
+}
